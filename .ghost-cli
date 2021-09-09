@@ -1,0 +1,7 @@
+{
+  "active-version": "4.13.0",
+  "cli-version": "1.17.3",
+  "channel": "stable",
+  "name": "ghost-local-1",
+  "running": "development"
+}
